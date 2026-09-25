@@ -2,6 +2,4 @@
 Proyecto de practica para sistemas de comunicación 
 
 # Byte
-Byte atraviesa paredes
-
-
+Byte se detiene antes de las paredes
